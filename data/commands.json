@@ -1,0 +1,26 @@
+{
+   "info": {
+      "name": "info",
+      "usage": "`n:info` - Posts the info of this bot."
+   },
+   "exit": {
+      "name": "exit",
+      "usage": "`n:exit <time>` - After `time` seconds, the bot logs out."
+   },
+   "help": {
+      "name": "help",
+      "usage": "`n:help` **or** `a:help (command name)` - Get info for either all commands or a single one."
+   },
+   "ping": {
+      "name": "ping",
+      "usage": "`n:ping` - Posts the message's latency."
+   },
+   "wiki": {
+      "name": "wiki",
+      "usage": "`n:wiki <name> (search no.)` - Searches en.touhouwiki.net for name. If search no. exists, post the result of said number."
+   },
+   "kick": {
+      "name": "kick",
+      "usage": "`n:kick <user> (reason)` - Kicks a user with the optional reason."
+   }
+}
