@@ -1,1 +1,1 @@
-worker: python nitori.py
+worker: python ./nitori.py
