@@ -1,9 +1,7 @@
 import requests as reqs
 import time
-from pybooru import Danbooru as dan
 
 thapi = "https://en.touhouwiki.net/api.php"
-danclient = dan("danbooru",username="crebb",api_key="X7w4ZdaB6ZKTqHHqPqXfMwfR")
 
 
 def isnum(string):
