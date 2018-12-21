@@ -5,9 +5,7 @@ import os
 
 data = './data/'
 userjs = data+'users.json'
-blank = ""
-with open(data+"thegoods.json") as sdat:
-   blank = (json.load(sdat)).get("userpath")
+blank = "https://woah-ac6b3.firebaseio.com/nitori/users"
 api = blank + '.json'
 
 cache = {}

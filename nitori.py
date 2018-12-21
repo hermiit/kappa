@@ -14,7 +14,7 @@ client = discord.Client()
 
 pi = math.pi
 sin = math.sin
-token = ""
+token = "https://woah-ac6b3.firebaseio.com/nitori/users"
 owner = "213839777840103426"
 nico = "https://cdn.discordapp.com/attachments/512349953709047843/514307817486942211/67567-2.png"
 logid = '523015818980753426'
